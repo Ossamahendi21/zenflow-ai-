@@ -30,9 +30,8 @@ This repository contains the source code that forms the foundation of this visio
 
 Explore the current state of the ZenFlow AI application and see the building blocks in action:
 
-**[👉 Visit the ZenFlow AI Application (Live Demo/Current Iteration)](YOUR_LIVE_DEMO_URL_HERE)**
+**[👉 Visit the ZenFlow AI Application (COMMING SOON)](YOUR_LIVE_DEMO_URL_HERE)**
 
-*(**Important:** Replace `YOUR_LIVE_DEMO_URL_HERE` with the actual URL where your current code is hosted. Add a note if the live version only represents a specific set of features or an earlier iteration towards the full vision).*
 
 ## ✨ Envisioned Key Features
 
@@ -81,8 +80,7 @@ The current code provides a working foundation including user authentication, da
 
 ## 📄 License
 
-This project is currently unlicensed. *(It is highly recommended to add a LICENSE file, e.g., MIT, if you intend for others to freely use or modify the source code found in this repository).*
-
+This project is currently unlicensed. 
 ## 👋 Contributing
 
 Contributions are welcome as we build towards the full ZenFlow AI vision! If you're interested in contributing to the codebase or have ideas for features, please feel free to:
@@ -94,6 +92,6 @@ Please refer to the (forthcoming) `CONTRIBUTING.md` file for more detailed guide
 
 ## 📧 Contact
 
-Ossama Hendi - [ossama.hendi21@gmail.com](mailto:ossama.hendi21@gmail.com)
+Ossama Hendi - [Ossamahendi21](.)
 
 Project Repository: [https://github.com/Ossamahendi21/zenflow-ai-](https://github.com/Ossamahendi21/zenflow-ai-)
